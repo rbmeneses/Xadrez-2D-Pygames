@@ -1,3 +1,4 @@
+![Screenshot da Aplicação](https://github.com/rbmeneses/Xadrez-2D-Pygames/blob/main/xadrez.png)
 Xadrez Humano vs Gemini (Pygame)
 Um jogo de xadrez 2D completo desenvolvido em Python com a biblioteca Pygame. Desafie um amigo no modo multiplayer local ou teste suas habilidades contra uma inteligência artificial com múltiplos níveis de dificuldade.
 
